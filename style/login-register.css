@@ -1,9 +1,0 @@
-html, body, .login-clean {
-    height: 100%;
-    color: blue !important;
-}
-
-#status {
-    text-align: center;
-    color: red;
-}
